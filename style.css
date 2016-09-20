@@ -1,0 +1,31 @@
+.container {
+  margin: 50px auto;
+ 
+}
+
+.boardContainer{
+  text-align: center;
+  margin: 0 auto;
+  max-width: 300px;
+  max-height: 300px;
+  min-width: 300px;
+  min-height: 300px;
+}
+
+ span.boardSection {
+  margin: 5px 5px 5px  !important;
+  background-color: purple;
+  width: 90px;
+  height: 90px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+span.boardSection p {
+  font-size: 62px;
+  color: #fff !important;
+  padding: 2px 2px 5px 2px;
+}
+
+button{
+  background-color: blue;
+}
